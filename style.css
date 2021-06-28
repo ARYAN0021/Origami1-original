@@ -1,0 +1,53 @@
+h1{
+    color: white;
+    font-size:35px;
+    font-weight:600;
+    font-family: gt walsheim pro,helvetica,arial,sans-serif;
+    text-shadow: 5px 4px 2px grey;
+    margin: 0.5px;
+   
+}
+.header{
+    border: solid;
+    border-color: greenyellow;
+    border-radius:9px;
+    border-width:2px;
+    background-color:#002333;
+    width:1340px ;
+    height: 70px;
+   
+}
+.footer{
+    background-color:wheat;
+    border: solid;
+}
+.menu{
+    background-color:greenyellow;
+    border: solid;
+    border-radius:10px;
+}
+
+.item{
+    background-color:mediumspringgreen;
+    border: solid;
+    border-color: greenyellow;
+    border-width: 20px;
+    border-top-color: mediumspringgreen;
+    border-bottom-color: mediumspringgreen;
+   
+}
+
+p,item{
+    font-size: 20px;
+}
+h2,item{
+    text-align: center;
+}
+li,item{
+    text-align: left;
+}
+h3,item{
+    background-color: red;
+}
+
+
